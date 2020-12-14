@@ -24,7 +24,7 @@ Eddie
 There is an API for submitting exam questions and calculating scores. The application is running, but has some issues. Your job is to identify them and fix them.
 
 - Write an integration that tests the happy path: submit 3 answers and check if they are correct.
-- Write unit tests where appropriate. At least test loading the data and reponses.
+- Write unit tests where appropriate. At minimum, test loading the data and responses.
 - You can use any standard python libraries or standards for testing. If you need help with this, let us know and we will share a quick-starter project promptly.
 - This project must be done in Python. Feel free to use your favorite libraries, we don't have a preference.
 
